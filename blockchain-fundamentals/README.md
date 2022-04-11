@@ -43,3 +43,12 @@ Nodes must all agree on which blocks are allowed to be added to the blockchain, 
 - when node has enough data, it organizes and adds header
 - block is submitted for consensus
 - if accepted, block is added to chain
+
+## Public vs Private Blockchains
+
+Public (permissionless blockchain) allows anyone to view and participate in the blockchain. Private (permissioned blockchain) allows access to the blockchain to authorized users only.
+
+## Types of Nodes
+
+Full node - downloads full copies of the blockchain.
+Lightweight node - participates in the blockchain, but only download the most recent (or needed) blocks.
